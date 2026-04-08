@@ -1,0 +1,6 @@
+{
+    "*.ts": [
+        "pnpm lint",
+        "git add"
+    ]
+}
